@@ -67,7 +67,7 @@ namespace CalculadoraPitagoras.Tests
         }
 
         [TestMethod]
-        public void CalcularB_ValueALessB_ReturnsException()
+        public void CalcularB_ValueALessC_ReturnsException()
         {
             //Arrange
             var operacion = new ClassOp();
