@@ -1,13 +1,13 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using CalculadoraPitagoras;
+
 
 
 namespace CalculadoraPitagoras.Tests
 {
     [TestClass]
     public class UnitTest1
-    {        
+    {
         [TestMethod]
         public void CalcularA_CorrectValues_ReturnsNumber()
         {
@@ -103,3 +103,4 @@ namespace CalculadoraPitagoras.Tests
 
     }
 }
+
